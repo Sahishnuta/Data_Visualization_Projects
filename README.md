@@ -25,7 +25,7 @@ In this project, I analyzed and visualized the insights of the chat data. The da
 
 ## [Project 2: Customer Analysis](https://github.com/Sahishnuta/Data_Visualization_Projects/tree/main/Customer_Analysis)
 
-This projects aim to distinguish between a signal process that produces Higgs bosons and a background process that does not.
+This project aim to distinguish between a signal process that produces Higgs bosons and a background process that does not.
 
 ## [Project 3: Useful insights on Gold](https://github.com/Sahishnuta/Data_Visualization_Projects/tree/main/Gold_DataSet)
 
@@ -42,5 +42,5 @@ This project calculates “Customer Lifetime Value” with a proprietary formula
  
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [sahishnutaatosh@gmail.com](mailto:isahishnutaatosh@gmail.com) or connect with me on LinkedIn at [Sahishnuta Tosh](https://www.linkedin.com/in/sahishnuta-tosh/)
 
-Thank you for visiting my Machine Learning Portfolio! I hope you find my projects informative and insightful.
+Thank you for visiting my Data Visualization Portfolio! I hope you find my projects informative and insightful.
 
